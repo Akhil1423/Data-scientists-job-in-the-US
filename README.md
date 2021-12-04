@@ -27,5 +27,5 @@ The below indicated five publications are a bit related to my project about data
 4. Erin Baldwin Draper (2020, Dec 16). Data Science Job Growth in 2021 and Beyond https://lambdaschool.com/the-commons/data-science-job-growth-in-2021-and-beyond
 5. Jack Chih-Hsu Lin (2020, sep 23). Analysis of 5,500 Data Science Jobs (2020): Popular Skills and Location. https://medium.com/@chihhsulin/5-500-data-scientist-jobs-report-2020-adefe1d364d3. 
 
-Bibliography:
+**Bibliography:**
 https://www.kaggle.com/sl6149/data-scientist-job-market-in-the-us
